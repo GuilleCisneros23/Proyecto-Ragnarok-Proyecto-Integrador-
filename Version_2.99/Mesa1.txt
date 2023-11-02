@@ -1,0 +1,6 @@
+Restaurante:Joe´s Burguers
+Mesa:1
+
+Index:1/Plato:Hamburguesa con queso/Descripción:Hamburguesa al estilo americano elaborado con vegetales frescos y 1/2 lb de carne wayiu/Instrucciones:Añada cualquier indicación que busque con respecto al plato/Extras:Aroz de Cebollas{2.99},Papas Fritas{2.99}, Soda{1.99}/Precio:5.99/Imagen:Hamburguesa.png\
+
+Index:2/Plato:Hamburguesa con tocino/Descripción:Hamburguesa al estilo americano de 1/2 lb de carner wayiu, queso mozzarella y rebanadas de tocino sureño/Instrucciones:Añada cualquier indicación que busque con respecto al plato/Extras:Aroz de Cebollas{2.99},Papas Fritas{2.99}, Soda{1.99}/Precio:6.99/Imagen:HamTocino.png\
