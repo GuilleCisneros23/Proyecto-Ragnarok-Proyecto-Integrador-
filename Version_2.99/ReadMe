@@ -1,0 +1,11 @@
+Hola, esta carpeta muestra el 2do avance del desarrollo del codigo del poryecto integrador. Comparado a la versión anterior hay los siguientes cambios:
+
+1. Correccion de errores del flujo de trabajo entre las actividades de Login y Registro
+2. Desarrollo e implementación de autenticación por medio de Google y Facebook con sus propios metodos de conectarse a Firebase y de autenticar que sea la persona correcta 
+3. Creación de la Actividad "QRActivity"
+   3.1. Implementación de un previewView por medio de las librerias de CamaraX para la visualizacion de los codigos QR
+   3.2. Implementación de un codigo proveniente de Firebase MLkit para el escaneo de codigos QRs 
+   3.3. Envio del nombre de usuario y datos del QR  a "actividad del Restaurante"
+
+4. Estilización del programa con Font especializado (Minecraft)
+5. Adición del metodo propido de authenticación donde se usa un mail ,contraseña y con un nombre de usuario
